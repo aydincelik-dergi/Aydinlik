@@ -1,4 +1,3 @@
-[indx.html](https://github.com/user-attachments/files/25264849/indx.html)
 <!DOCTYPE html>
 <html lang="tr">
 <head>
